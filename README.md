@@ -1,2 +1,2 @@
-# nascar-win-rate-prediction
+# nascar-win-rate-predictior
  This project aims to predict driver win rates based on historical NASCAR data. It uses the Random Forest Regressor model to predict win rates for each driver based on their total wins and number of seasons in the series. The dataset is filtered to include data from the year 2000 onward, and features are pre-processed (including feature scaling) before training the model.
