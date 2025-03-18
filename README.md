@@ -17,7 +17,5 @@ The dataset used in this project contains historical NASCAR champion data, inclu
 - Python 3.x
 - pandas
 - scikit-learn
-- numpy
-- matplotlib
 
 
